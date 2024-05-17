@@ -15,3 +15,6 @@ Libraries:
 * Pandas
 * Scipy
 * Photutils
+
+
+![NGC2070V_reducida](https://github.com/FabianCornejoC/Astronomy_Image_Visualization/assets/166162140/98facf07-14fd-4225-9578-34005967de09)
