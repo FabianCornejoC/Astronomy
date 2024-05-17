@@ -8,4 +8,10 @@ see in order:
 1. Processing_Image
 2. Cleaning_Analysis_Visualization
 
-
+Libraries:
+* Numpy
+* Matplotlib
+* Astropy
+* Pandas
+* Scipy
+* Photutils
